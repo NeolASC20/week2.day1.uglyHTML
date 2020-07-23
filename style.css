@@ -1,15 +1,55 @@
-.top{
+body{
     background-color: rgb(53,53,53);
 }
-body{
-    color:whitesmoke;
-}
-header{
-    font-size:72px;
-    text-align:center;
+header{ 
+    font-family: Tangerine;
+    font-size: 72px;
+    text-align: center;
+    color: whitesmoke;
+    }
+div{
+    color: whitesmoke;
 }
 h3{
-    font-size:26px;
-    text-align:center;
+    font-family: Unica One;
+    font-size: 72px;
+    text-align: center;
 }
 
+.watch_container{
+    border:solid;
+    border-width: 2px;
+    border-color: #FDEFA6;
+    border-radius: 13px;
+    margin-top: 15px;
+    margin-left:50px;
+    margin-right:50px;
+
+}
+h2{
+    font-family: Unica One;
+}
+.watch_container{
+    background-color: #1A1818;
+}
+
+.watch_description{
+    font-family: Dosis;
+}
+#topImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 540px;
+}
+.watch_container img{
+    max-height: 200px;
+}
+footer{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 30px;
+    font-family: Dosis;
+    text-align: center;
+    color: whitesmoke;
+}
